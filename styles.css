@@ -1,5 +1,6 @@
 body {
 	background: black;
+	font-family: "Style Script", cursive;
 }
 * {
 	border: 1px dashed red;
@@ -40,6 +41,7 @@ h1 {
 input {
 	border: none;
 	border-bottom: 1px grey solid;
+	font-family: "Style Script", cursive;
 }
 .body-left,
 .body-right {
@@ -55,6 +57,7 @@ button {
 	opacity: 0.9;
 	transition: 0.1s;
 	cursor: pointer;
+	font-family: "Style Script", cursive;
 }
 button:hover {
 	opacity: 1;
